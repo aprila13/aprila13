@@ -1,7 +1,7 @@
 ### Hi there 👋
-<div align="center">
+<!-- <div align="center">
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2014/05/02/21/50/home-office-336377_960_720.jpg" alt="cover" />
-</div>
+</div> -->
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
