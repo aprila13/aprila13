@@ -46,9 +46,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   [![aprila13's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aprila13)](https://github.com/aprila13/github-readme-stats)
 
-<!-- <img align="left" src="https://camo.githubusercontent.com/22564485deb4b1be602ad36ed876f397c79f39614cf2a528773df53f69ce257e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d49736161634d656e64657a2d776f726b26636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d6d65726b6f" data-canonical-src="https://github-readme-stats.vercel.app/api?username=aprila13&amp;count_private=true&amp;show_icons=true&amp;theme=merko" style="max-width:100%;">
-</a>
-<br> -->
 
 
 <h2> April's GitHub Stats </h2>
@@ -57,7 +54,4 @@
 
 
 
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
-![image](https://user-images.githubusercontent.com/45795214/117047627-1b8fe900-ace0-11eb-8898-e2a9fa638d07.png)
 
