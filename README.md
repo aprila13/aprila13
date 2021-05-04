@@ -1,7 +1,3 @@
-### Hi there 👋
-<!-- <div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2014/05/02/21/50/home-office-336377_960_720.jpg" alt="cover" />
-</div> -->
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
@@ -17,11 +13,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on 
-
 - 🌱 I’m currently learning    DevOps Focused Technologies: Docker, AWS, Jenkins, etc. 
-
-- 👯 I’m looking to collaborate on  
 
 - 💬 Talk to me about   Frond-End Web Development & DevOps.
 
