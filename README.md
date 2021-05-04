@@ -45,8 +45,8 @@
 
 
 <h2> April's GitHub Stats </h2>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=aprila13&count_private=true&show_icons=true&theme=merko" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprila13&theme=merko" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=aprila13&count_private=true&show_icons=true&theme=cobalt" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprila13&theme=cobalt" />
 
 
 
